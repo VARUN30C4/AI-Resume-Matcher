@@ -1,0 +1,26 @@
+Python Backend Developer - AI Platform
+
+About the Role
+We are building an AI-powered hiring platform and need a backend developer who can turn language models and search into reliable, well-tested APIs.
+
+Responsibilities
+• Design, build and maintain REST APIs and microservices for our AI products
+• Build NLP pipelines that analyse and rank unstructured text such as resumes and job descriptions
+• Model data and write efficient queries against relational databases
+• Containerise services and ship them through automated CI/CD pipelines
+• Write unit tests and review code with the team
+
+Requirements
+• 3+ years of professional experience in Python backend development
+• Strong experience with FastAPI, Flask or Django
+• Solid SQL skills and hands-on experience with PostgreSQL
+• Practical experience with NLP and machine learning
+• Experience with Docker
+• Experience building REST APIs
+• Bachelor's degree in Computer Science or a related field
+
+Nice to have
+• AWS or another cloud platform
+• Kubernetes
+• Experience with LLMs and retrieval-augmented generation (RAG)
+• Experience with vector search
